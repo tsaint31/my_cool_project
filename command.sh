@@ -1,3 +1,4 @@
 ls
 pwd
 cd
+grep
